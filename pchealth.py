@@ -12,37 +12,37 @@ if __name__=="__main__":
 
     class SystemInfo():
 
-    """
-    A class used to return SystemInfo
-    ...
+        """
+        A class used to return SystemInfo
+        ...
 
-    Attributes
-    ----------
-    None
-    
-    ...
+        Attributes
+        ----------
+        None
 
-    Methods
-    -------
-    userinfo(self)
-        Prints the user info 
-        
-    batteryinfo(self)
-        Prints the battery stats.
+        ...
 
-    system_temp(self)
-        Prints the system's temperature
+        Methods
+        -------
+        userinfo(self)
+            Prints the user info 
 
-    fan_speed(self)
-        Prints the system's fan_speed
+        batteryinfo(self)
+            Prints the battery stats.
 
-    memory_info(self)
-        Prints memory stats of system
+        system_temp(self)
+            Prints the system's temperature
 
-    virt_memory(self)
-        Prints the virtual memory stats of system
+        fan_speed(self)
+            Prints the system's fan_speed
 
-    """
+        memory_info(self)
+            Prints memory stats of system
+
+        virt_memory(self)
+            Prints the virtual memory stats of system
+
+        """
         
         def userinfo(self):
             print("User Info:")
