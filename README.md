@@ -14,4 +14,4 @@ Provides CPU and memory Parameter and Stats using the psutil and sys module.
 ## Example
 ![](/Images/Example_1.png)
 
-### Please feel free to frk and tweak the code :P
+### Please feel free to fork and tweak the code :P
