@@ -3,7 +3,7 @@ Provides CPU and memory Parameter and Stats using the psutil and sys module.
 
 ## What it does?
 
-1. Return the logged in **User** info
+1. Returns the logged in **User** info
 2. Reurns System hardware Parameters such as Fan speed, CPU temperature, time till battery Discharges
 3. Also provides us disk memory and Virtual meomory staristics.
 
