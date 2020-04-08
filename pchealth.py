@@ -14,14 +14,12 @@ if __name__=="__main__":
 
     """
     A class used to return SystemInfo
-
     ...
 
     Attributes
     ----------
-
     None
-
+    
     ...
 
     Methods
