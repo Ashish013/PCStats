@@ -1,5 +1,5 @@
 # PCStats
-Provides CPU and memory Parameter and Stats using the psutil and sys module.
+Provides CPU,memory's parameter and stats using the psutil,sys libraries.
 
 ## What it does?
 
